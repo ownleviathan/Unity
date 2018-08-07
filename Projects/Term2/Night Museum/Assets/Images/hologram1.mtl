@@ -1,0 +1,78 @@
+# Blender MTL File: '545172bb2d36493abd57f29ee5659985.blend'
+# Material Count: 7
+
+newmtl base
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\perez\AppData\Local\dump\resources\V7 - Sci-Fi Textures\maps\dish003.jpg
+
+newmtl emitter
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.736000 0.736000 0.736000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:\Users\perez\AppData\Local\dump\resources\V7 - Sci-Fi Textures\maps\space006.jpg
+
+newmtl grid
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.736000 0.736000 0.736000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd D:\work\3d\blender3d\grid1.jpg
+
+newmtl inner_ring
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\perez\AppData\Local\dump\resources\V7 - Sci-Fi Textures\maps\ceiling024.jpg
+
+newmtl perimeter
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\perez\AppData\Local\dump\resources\V7 - Sci-Fi Textures\maps\tile011.jpg
+
+newmtl rays
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.275153 0.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 0
+
+newmtl ring
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\perez\AppData\Local\dump\resources\V7 - Sci-Fi Textures\maps\hatch009.jpg
